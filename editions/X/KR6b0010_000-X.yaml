@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0010/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘本生心地觀經淺註科文
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X20/X20n0366.xml
+    old_id: X20n0366
+hash: sha256:2d3f83db944b77ce5a0cd2faec3b950658022e0a0e91ce77430ee5d4b94352be

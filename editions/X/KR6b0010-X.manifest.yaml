@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR6b0010/X/v1
+canonical_location: https://kanripo.org/bkk/KR6b0010/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘本生心地觀經淺註科文
+  identifiers:
+    krp: KR6b0010
+    cbeta: X20n0366
+    cbeta_old_id: X20n0366
+    authorityid: CA0005265
+    json_key: X0366
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X20/X20n0366.xml
+    old_id: X20n0366
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6b0010_000-X.yaml, hash: 'sha256:2d3f83db944b77ce5a0cd2faec3b950658022e0a0e91ce77430ee5d4b94352be'}
+  - {seq: 1, filename: KR6b0010_001-X.yaml, hash: 'sha256:7d8a8ccda8af67804cd093b000b43075392f96e81e755bc684a0616d69d59353'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6b0010_000-X.markers.yaml, hash: 'sha256:15dbd2df9d5f921022df63e1c21ed00b8cdd633d558534d5cd2a45b6cc62730c'}
+  - {seq: 1, role: markers, filename: assets/KR6b0010_001-X.markers.yaml, hash: 'sha256:deebf73e8478e1c7a8917d3463ed82eb292dcf8120d5d7cb87b28b287d74aadc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6b0010_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 10058
+  label: 大乘本生心地觀經淺註科文
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0010_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0010_X_001-mulu-2
+    span:
+    - body
+    - 2076
+    - 2076
+  label: 第二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0010_X_001-mulu-3
+    span:
+    - body
+    - 3524
+    - 3524
+  label: 第三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0010_X_001-mulu-4
+    span:
+    - body
+    - 4869
+    - 4869
+  label: 第四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0010_X_001-mulu-5
+    span:
+    - body
+    - 5793
+    - 5793
+  label: 第五卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0010_X_001-mulu-6
+    span:
+    - body
+    - 6953
+    - 6953
+  label: 第六卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0010_X_001-mulu-7
+    span:
+    - body
+    - 7917
+    - 7917
+  label: 第七卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0010_X_001-mulu-8
+    span:
+    - body
+    - 8766
+    - 8766
+  label: 第八卷
+  type: mulu
+  level: 1
+hash: sha256:2d19f75a741eb998d533c0313538f0e4287fca55a763de72cecd34f9a015e155
